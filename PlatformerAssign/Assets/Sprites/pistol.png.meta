@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: 4cd8958f9b8a635459f001a6ae4bd3ff
+timeCreated: 1480338820
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pistol_0
+    21300002: pistol_1
+    21300004: pistol_2
+    21300006: pistol_3
+    21300008: pistol_4
+    21300010: pistol_5
+    21300012: pistol_6
+    21300014: pistol_7
+    21300016: pistol_8
+    21300018: pistol_9
+    21300020: pistol_10
+    21300022: pistol_11
+    21300024: pistol_12
+    21300026: pistol_13
+    21300028: pistol_14
+    21300030: pistol_15
+    21300032: pistol_16
+    21300034: pistol_17
+    21300036: pistol_18
+    21300038: pistol_19
+    21300040: pistol_20
+    21300042: pistol_21
+    21300044: pistol_22
+    21300046: pistol_23
+    21300048: pistol_24
+    21300050: pistol_25
+    21300052: pistol_26
+    21300054: pistol_27
+    21300056: pistol_28
+    21300058: pistol_29
+    21300060: pistol_30
+    21300062: pistol_31
+    21300064: pistol_32
+    21300066: pistol_33
+    21300068: pistol_34
+    21300070: pistol_35
+    21300072: pistol_36
+    21300074: pistol_37
+    21300076: pistol_38
+    21300078: pistol_39
+    21300080: pistol_40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pistol_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2809
+        width: 223
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2817
+        width: 210
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2845
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2809
+        width: 194
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_4
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2822
+        width: 210
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_5
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2812
+        width: 219
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_6
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 2808
+        width: 188
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_7
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2806
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_8
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2813
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2808
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_10
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2804
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_11
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2806
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_12
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2796
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2347
+        width: 272
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2355
+        width: 258
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_15
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2355
+        width: 203
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_16
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_17
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2360
+        width: 211
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_18
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2349
+        width: 220
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_19
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 2347
+        width: 188
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_20
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2383
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2345
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_22
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_23
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2350
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_24
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2341
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_25
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2333
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_26
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2320
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_27
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1852
+        width: 189
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_28
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2211
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_29
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1886
+        width: 185
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_30
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1872
+        width: 188
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1851
+        width: 212
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_32
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1848
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_33
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1840
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1379
+        width: 176
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_35
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1379
+        width: 176
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_36
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1721
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1382
+        width: 347
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1369
+        width: 15
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_39
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1354
+        width: 16
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_40
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1179
+        width: 68
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
