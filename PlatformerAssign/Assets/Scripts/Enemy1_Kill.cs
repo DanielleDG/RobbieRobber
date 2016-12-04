@@ -16,10 +16,8 @@ public class Enemy1_Kill : MonoBehaviour {
 			, transform.position.z), new Vector3 (transform.position.x + playerRange, transform.position.y
 				, transform.position.z));
 		if (transform.localScale.x < 0 && player.transform.position.x > transform.position.x && player.transform.position.x
-		   < transform.position.x + playerRange) 
-		{
+		    < transform.position.x + playerRange) {
 			anim.SetBool ("isHittingPlayer", true);
-
 		}
 		if (transform.localScale.x > 0 && player.transform.position.x < transform.position.x && player.transform.position.x
 			> transform.position.x - playerRange) 

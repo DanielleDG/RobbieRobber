@@ -45,7 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\BulletContoller.cs" />
      <Compile Include="Assets\Scripts\Enemy1_Kill.cs" />
+     <Compile Include="Assets\Scripts\Enemy2_Kill.cs" />
      <Compile Include="Assets\Scripts\EnemyAI.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <None Include="Assets\stg_basic_pics\document_and_picturelist\readme.txt" />
